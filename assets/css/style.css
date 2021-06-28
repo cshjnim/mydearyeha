@@ -92,7 +92,7 @@ body {
     }
     
     p {
-    font-family: fantasy;
+    font-family: 'Courier New', Courier, monospace;
     }
     
     p a {
@@ -101,7 +101,7 @@ body {
     
     .auth-image {
     float: left;
-    width: 200px;
+    width: 300px;
     height: auto;
     margin-top: 10px;
     margin-right: 25px;
