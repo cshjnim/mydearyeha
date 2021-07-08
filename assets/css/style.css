@@ -263,7 +263,7 @@ body {
     border: 0 none;
     }
     
-    /* portfolio page */
+    /* photo page */
     
     .work {
     position: relative;
@@ -279,7 +279,6 @@ body {
     .work img {
     width: 100%;
     border: 0 none;
-    opacity: 0.8;
     }
     
     .work h3 {
@@ -292,7 +291,7 @@ body {
     line-height: 30px;
     color: #ffffff;
     text-align: center;
-    background: #4aaaa5;
+    background: #f7c5dc;
     border-bottom: 0;
     }
     
@@ -303,10 +302,9 @@ body {
     }
     
     #work-image {
-    width: 240px;
+    max-width: 400px;
     margin-top: 10px;
     margin-right: 25px;
-    max-height: 100px;
     }
       
     
